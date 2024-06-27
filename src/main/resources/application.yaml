@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    username: sqladmin
+    password: Dnya@2024
+    url: jdbc:sqlserver://appdbserver2107.database.windows.net:1433;database=appdb;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+  jpa:
+    show-sql: 'true'
+    hibernate:
+      ddl-auto: update
+logging:
+  level:
+    org:
+      hibernate:
+        SQL: DEBUG

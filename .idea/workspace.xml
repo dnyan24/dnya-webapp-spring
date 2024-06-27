@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="754110d1-f737-4c35-8431-541a8d8a5a0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2iSujMDUAEu5ovfbyVGeVDv8yvi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable" />
+  </component>
+  <component name="RunManager" selected="Azure Web App.Azure Web App: az-spring-webapp-db:spring-boot-azure-sql-crud">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.knf.dev.demo.springbootazuresqlcrud.Application" />
+      <module name="spring-boot-azure-sql-crud" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spring-boot-azure-sql-crud [clean...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Azure Web App: az-spring-webapp-db:dnya-webapp" type="com.microsoft.intellij.run.configuration.WebAppConfigurationType" factoryName="Azure Web App">
+      <option name="OS" value="linux" />
+      <option name="appServicePlanId" value="/subscriptions/0f23e522-62bc-4da4-bab1-de2483f0acda/resourceGroups/webapp-rg/providers/Microsoft.Web/serverfarms/ASP-webapprg-bf69" />
+      <option name="appServicePlanName" value="" />
+      <option name="applicationLogLevel" value="Error" />
+      <option name="artifactIdentifier" value="com.knf.dev.demo:spring-boot-azure-sql-crud:0.0.1-SNAPSHOT" />
+      <option name="azureArtifactType" value="Maven" />
+      <option name="creatingAppServicePlan" value="false" />
+      <option name="creatingNew" value="false" />
+      <option name="creatingResGrp" value="false" />
+      <option name="deployToRoot" value="false" />
+      <option name="deployToSlot" value="false" />
+      <option name="enableApplicationLog" value="false" />
+      <option name="enableDetailedErrorMessage" value="false" />
+      <option name="enableFailedRequestTracing" value="false" />
+      <option name="enableWebServerLogging" value="false" />
+      <option name="jdkVersion">
+        <JavaVersion />
+      </option>
+      <option name="newSlotConfigurationSource" />
+      <option name="newSlotName" />
+      <option name="openBrowserAfterDeployment" value="true" />
+      <option name="operatingSystem" value="linux" />
+      <option name="packaging" value="jar" />
+      <option name="pricing" value="" />
+      <option name="projectBase" value="" />
+      <option name="projectType" value="" />
+      <option name="region" value="eastasia" />
+      <option name="resourceGroup" value="webapp-rg" />
+      <option name="slotName" />
+      <option name="slotPanelVisible" value="false" />
+      <option name="stack" value="TOMCAT" />
+      <option name="subscriptionId" value="0f23e522-62bc-4da4-bab1-de2483f0acda" />
+      <option name="targetName" value="spring-boot-azure-sql-crud-0.0.1-SNAPSHOT.jar" />
+      <option name="targetPath" value="" />
+      <option name="version" value="8.5-jre8" />
+      <option name="webAppContainer" value="JAVA 17" />
+      <option name="webAppId" value="/subscriptions/0f23e522-62bc-4da4-bab1-de2483f0acda/resourceGroups/webapp-rg/providers/Microsoft.Web/sites/dnya-webapp" />
+      <option name="webAppJavaVersion" value="java17" />
+      <option name="webAppName" value="dnya-webapp" />
+      <option name="webContainer" value="" />
+      <option name="webServerLogQuota" value="35" />
+      <option name="webServerRetentionPeriod" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="package" />
+      </method>
+    </configuration>
+    <configuration name="Azure Web App: az-spring-webapp-db:spring-boot-azure-sql-crud" type="com.microsoft.intellij.run.configuration.WebAppConfigurationType" factoryName="Azure Web App">
+      <option name="OS" value="linux" />
+      <option name="appServicePlanId" value="/subscriptions/0f23e522-62bc-4da4-bab1-de2483f0acda/resourceGroups/webap-rg/providers/Microsoft.Web/serverfarms/ASP-webaprg-9ec8" />
+      <option name="appServicePlanName" value="" />
+      <option name="applicationLogLevel" value="Error" />
+      <option name="artifactIdentifier" value="com.knf.dev.demo:spring-boot-azure-sql-crud:0.0.1-SNAPSHOT" />
+      <option name="azureArtifactType" value="Maven" />
+      <option name="creatingAppServicePlan" value="false" />
+      <option name="creatingNew" value="false" />
+      <option name="creatingResGrp" value="false" />
+      <option name="deployToRoot" value="false" />
+      <option name="deployToSlot" value="false" />
+      <option name="enableApplicationLog" value="false" />
+      <option name="enableDetailedErrorMessage" value="false" />
+      <option name="enableFailedRequestTracing" value="false" />
+      <option name="enableWebServerLogging" value="false" />
+      <option name="jdkVersion">
+        <JavaVersion />
+      </option>
+      <option name="newSlotConfigurationSource" />
+      <option name="newSlotName" />
+      <option name="openBrowserAfterDeployment" value="true" />
+      <option name="operatingSystem" value="linux" />
+      <option name="packaging" value="jar" />
+      <option name="pricing" value="" />
+      <option name="projectBase" value="" />
+      <option name="projectType" value="" />
+      <option name="region" value="eastasia" />
+      <option name="resourceGroup" value="webap-rg" />
+      <option name="slotName" />
+      <option name="slotPanelVisible" value="false" />
+      <option name="stack" value="TOMCAT" />
+      <option name="subscriptionId" value="0f23e522-62bc-4da4-bab1-de2483f0acda" />
+      <option name="targetName" value="spring-boot-azure-sql-crud-0.0.1-SNAPSHOT.jar" />
+      <option name="targetPath" value="" />
+      <option name="version" value="8.5-jre8" />
+      <option name="webAppContainer" value="JAVA 17" />
+      <option name="webAppId" value="/subscriptions/0f23e522-62bc-4da4-bab1-de2483f0acda/resourceGroups/webap-rg/providers/Microsoft.Web/sites/dnya-webapp" />
+      <option name="webAppJavaVersion" value="java17" />
+      <option name="webAppName" value="dnya-webapp" />
+      <option name="webContainer" value="" />
+      <option name="webServerLogQuota" value="35" />
+      <option name="webServerRetentionPeriod" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="package" />
+      </method>
+    </configuration>
+    <configuration name="webappdeploy" type="com.microsoft.intellij.run.configuration.WebAppConfigurationType" factoryName="Azure Web App">
+      <option name="OS" value="linux" />
+      <option name="appServicePlanId" value="/subscriptions/0f23e522-62bc-4da4-bab1-de2483f0acda/resourceGroups/webapp-rg/providers/Microsoft.Web/serverfarms/ASP-webapprg-bf69" />
+      <option name="appServicePlanName" value="" />
+      <option name="applicationLogLevel" value="Error" />
+      <option name="artifactIdentifier" value="com.knf.dev.demo:spring-boot-azure-sql-crud:0.0.1-SNAPSHOT" />
+      <option name="azureArtifactType" value="Maven" />
+      <option name="creatingAppServicePlan" value="false" />
+      <option name="creatingNew" value="false" />
+      <option name="creatingResGrp" value="false" />
+      <option name="deployToRoot" value="false" />
+      <option name="deployToSlot" value="false" />
+      <option name="enableApplicationLog" value="false" />
+      <option name="enableDetailedErrorMessage" value="false" />
+      <option name="enableFailedRequestTracing" value="false" />
+      <option name="enableWebServerLogging" value="false" />
+      <option name="jdkVersion">
+        <JavaVersion />
+      </option>
+      <option name="newSlotConfigurationSource" />
+      <option name="newSlotName" />
+      <option name="openBrowserAfterDeployment" value="true" />
+      <option name="operatingSystem" value="linux" />
+      <option name="packaging" value="jar" />
+      <option name="pricing" value="" />
+      <option name="projectBase" value="" />
+      <option name="projectType" value="" />
+      <option name="region" value="eastasia" />
+      <option name="resourceGroup" value="webapp-rg" />
+      <option name="slotName" />
+      <option name="slotPanelVisible" value="false" />
+      <option name="stack" value="TOMCAT" />
+      <option name="subscriptionId" value="0f23e522-62bc-4da4-bab1-de2483f0acda" />
+      <option name="targetName" value="spring-boot-azure-sql-crud-0.0.1-SNAPSHOT.jar" />
+      <option name="targetPath" value="" />
+      <option name="version" value="8.5-jre8" />
+      <option name="webAppContainer" value="JAVA 17" />
+      <option name="webAppId" value="/subscriptions/0f23e522-62bc-4da4-bab1-de2483f0acda/resourceGroups/webapp-rg/providers/Microsoft.Web/sites/dnya-webapp" />
+      <option name="webAppJavaVersion" value="java17" />
+      <option name="webAppName" value="dnya-webapp" />
+      <option name="webContainer" value="" />
+      <option name="webServerLogQuota" value="35" />
+      <option name="webServerRetentionPeriod" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="package" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Azure Web App.Azure Web App: az-spring-webapp-db:dnya-webapp" />
+      <item itemvalue="Azure Web App.webappdeploy" />
+      <item itemvalue="Azure Web App.Azure Web App: az-spring-webapp-db:spring-boot-azure-sql-crud" />
+      <item itemvalue="Maven.spring-boot-azure-sql-crud [clean...]" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="754110d1-f737-4c35-8431-541a8d8a5a0d" name="Default Changelist" comment="" />
+      <created>1719496444352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719496444352</updated>
+    </task>
+    <servers />
+  </component>
+</project>
